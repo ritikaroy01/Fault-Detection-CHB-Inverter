@@ -76,6 +76,7 @@ The simulation generates 3 subplots:
 |--------------------------|--------------------------------------------------|
 | `fault_detection_lspwm.m`| Main MATLAB script with simulation and plots     |
 | `README.md`              | Project documentation                            |
+| `Image Output.jpg`       |  Simulation Output Image                         |
 
 ---
 
